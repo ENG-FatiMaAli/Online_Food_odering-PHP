@@ -1,5 +1,7 @@
 # FoodieApp - Food Ordering System
 
+A comprehensive food ordering system with separate panels for administrators and customers, featuring secure authentication, mobile-responsive design, and real-time order management.
+
 ## Installation Guide
 
 ### Requirements
