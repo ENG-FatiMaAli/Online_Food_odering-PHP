@@ -2,6 +2,10 @@
 
 A comprehensive food ordering system with separate panels for administrators and customers, featuring secure authentication, mobile-responsive design, and real-time order management.
 
+
+<img width="512" height="768" alt="image" src="https://github.com/user-attachments/assets/d4cadaa3-11e0-4357-84d1-fdc8313329bd" />
+
+
 ## Installation Guide
 
 ### Requirements
